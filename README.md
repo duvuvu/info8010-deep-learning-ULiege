@@ -2,9 +2,9 @@
 
 ## Authors
 These projects were carried by:
-- Federico FERRARO
-- Thibat LEFÈVRE
-- Duy Vu DINH
+- [Federico Ferraro](https://github.com/FreezieNinja)
+- [Thibaut Lefèvre](https://github.com/THLefevre)
+- [Duy Vu Dinh](https://github.com/duvuvu)
 
 ## Overview
 Welcome to the GitHub repository for the projects of the INFO8010 course. 
